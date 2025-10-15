@@ -1,5 +1,3 @@
-# Nashville-Predators-Data-Pipeline-Website-Insights-Capstone
-
 # Nashville Predators Web Analytics Pipeline 
 
 Create a workflow that draws data from the Google Analytics platform.
